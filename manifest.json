@@ -1,0 +1,15 @@
+{
+  "name": "ShopyAI - Affiliate Content Engine",
+  "short_name": "ShopyAI",
+  "description": "AI-powered content generator untuk Shopee affiliate creators Indonesia",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF9F7",
+  "theme_color": "#EE4D2D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
